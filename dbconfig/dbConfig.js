@@ -3,6 +3,6 @@ const dbConfig = mysql.createConnection({
   host: "localhost",
   user: "root",
   password: "",
-  database: "game",
+  database: "fishgawds",
 });
 module.exports = dbConfig;
